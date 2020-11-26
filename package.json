@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-modulo1",
+  "version": "1.0.0",
+  "description": "creacion de proyecto calificable",
+  "main": "()\u001b[Dindex.html)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JEPB1@bitbucket.org/JEPB1/proyecto-modulo1.git"
+  },
+  "author": "Jorge Palacios",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/JEPB1/proyecto-modulo1#readme"
+}
